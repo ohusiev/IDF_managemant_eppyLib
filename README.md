@@ -11,9 +11,18 @@ of parameters within sertain components of DB model for further simulation in En
 
 The experiments made in anaconda environment via jupyter notebook.
 
-## Task 
+## Aim 
 
 1. Manage change of certain components by incerting set of different values in itarative way
 2. Change of components of the building within the .idf file, for that:
   - by importing a certain parameters from excel .xls file, as list, array, ect;
   - implement the fuctionality of itaration through the array and after each correspondent circulte of iteration submit file to EnergyPlus engine simulation.
+
+## Task 1
+
+1. Establish change of certain elements:
+  - Façade (Insul. thickness of in  *EPS Expanded Polystyrene layer*)
+  - Windows Thermal transmittance (Uglass)
+  - Windows (SHGC)	
+  - Windows (Transmisión de luz)	
+  - Infiltration
