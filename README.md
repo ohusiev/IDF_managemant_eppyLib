@@ -14,5 +14,6 @@ The experiments made in anaconda environment via jupyter notebook.
 ## Task 
 
 1. Manage change of certain components by incerting set of different values in itarative way
-2. Procedure of file preparation and submition to EnergyPlus engine simulation
-3.  Change of geometric components of the building within the .idf file
+2. Change of components of the building within the .idf file, for that:
+  - by importing a certain parameters from excel .xls file, as list, array, ect;
+  - implement the fuctionality of itaration through the array and after each correspondent circulte of iteration submit file to EnergyPlus engine simulation.
