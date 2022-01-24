@@ -10,3 +10,9 @@ The .idf files derived from the Design Builder (DB) software to learn how the fu
 of parameters within sertain components of DB model for further simulation in EnergyPlus engine.
 
 The experiments made in anaconda environment via jupyter notebook.
+
+## Task 
+
+1. Manage change of certain components by incerting set of different values in itarative way
+2. Procedure of file preparation and submition to EnergyPlus engine simulation
+3.  Change of geometric components of the building within the .idf file
