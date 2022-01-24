@@ -8,3 +8,5 @@ The management of *.idf files made in self-education purpose to explore the func
 
 The .idf files derived from the Design Builder (DB) software to learn how the functionality of library can be easily realised to avoid manual work and implement iterative change
 of parameters within sertain components of DB model for further simulation in EnergyPlus engine.
+
+The experiments made in anaconda environment via jupyter notebook.
