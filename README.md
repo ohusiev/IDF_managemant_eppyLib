@@ -10,3 +10,19 @@ The .idf files derived from the Design Builder (DB) software to learn how the fu
 of parameters within sertain components of DB model for further simulation in EnergyPlus engine.
 
 The experiments made in anaconda environment via jupyter notebook.
+
+## Aim 
+
+1. Learn how to manage change of certain components by incerting set of different values in itarative way
+2. Practice the change of components of the building within the .idf file, for that:
+  - by importing a certain parameters from excel .xls file, as list, array, ect;
+  - implement the fuctionality of itaration through the array and after each correspondent circulte of iteration submit file to EnergyPlus engine simulation.
+
+## Task 1
+
+1. Establish change of certain elements:
+  - Façade (Insul. thickness of in  *EPS Expanded Polystyrene layer*)
+  - Windows Thermal transmittance (Uglass)
+  - Windows (SHGC)	
+  - Windows (Transmisión de luz)	
+  - Infiltration
