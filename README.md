@@ -1,5 +1,5 @@
 # IDF_managemant_eppyLib
-management of *.idf files from Design Builder 
+management of *.idf files exported from Design Builder in Eppy scripting language available in Python for EnergyPlus simulation engine.
 
 ## Disclaimer:
 This is very basic test of eppy library based on the documantation of EPPY LIBRARY: https://eppy.readthedocs.io/en/master/
