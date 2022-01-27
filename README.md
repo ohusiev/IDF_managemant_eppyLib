@@ -29,4 +29,6 @@ The experiments made in Anaconda environment via jupyter notebook.
 
 ## Task 2
 
-2. Running EnergyPlus from Eppy including exploring of "multicore mode" (https://eppy.readthedocs.io/en/master/runningeplus.html)
+1. Running EnergyPlus from Eppy including exploring of "multicore mode" (https://eppy.readthedocs.io/en/master/runningeplus.html)
+2. Reading outputs from E+ (Reading outputs from E+)
+3. Eppy [Useful scripts](https://eppy.readthedocs.io/en/master/useful_scripts.html)
