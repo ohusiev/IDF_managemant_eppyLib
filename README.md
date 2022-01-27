@@ -26,3 +26,7 @@ The experiments made in Anaconda environment via jupyter notebook.
   - Windows (SHGC)	
   - Windows (Transmisión de luz)	
   - Infiltration
+
+## Task 2
+
+2. Running EnergyPlus from Eppy including exploring of "multicore mode" (https://eppy.readthedocs.io/en/master/runningeplus.html)
